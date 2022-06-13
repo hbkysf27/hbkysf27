@@ -19,10 +19,19 @@
  
   
  📫 How to reach me in linkedIn profile:- **[LinkedIn Profile](https://www.linkedin.com/in/yusuf-salih-874328167/)**
+ <h2/>
+   <a href="https://www.linkedin.com/in/yusuf-salih-874328167/">
+  <img src="https://img.shields.io/badge/-yusuf-salih-874328167-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-salih-874328167-630155147/" />
+</a>
 
  👨‍💻 All of my projects are available at **[My Portfolio](https://yusufsalih.pages.dev/)**
 
  📫 How to reach me **Yusufsalih4@gmail.com**
+  
+<a href="mailto:Yusufsalih4@gmail.com">
+<img src="https://img.shields.io/badge/-Yusufsalih4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Yusufsalih4@gmail.com" />
+</a>
+
 
 <br>
 <br>
