@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>YUSUF</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a passionate .NET Developer</h3>
 <br>
 
 ## 🙋‍♂️ About Me
@@ -14,7 +14,7 @@
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
- 👀 I’m interested in <h3><b>Front-End development, Databases, Mobile App develpoment(Kotlin), Cloud services(AWS)</b></h3> **
+ 👀 I’m interested in <h3><b>Front-End development, Databases, Mobile App develpoment(Kotlin), Cloud services(AWS), .NET</b></h3> **
 
  
   
