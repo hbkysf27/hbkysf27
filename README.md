@@ -14,7 +14,7 @@
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
- 👀 I’m interested in <h3><b>Front-End development, Databases, Mobile App develpoment(Kotlin), Cloud services(AWS), .NET</b></h3> **
+ 👀 I’m interested in <h3><b>Databases, Mobile App develpoment(Kotlin), Cloud services(AWS), .NET, DEVOPS</b></h3> **
 
  
   
