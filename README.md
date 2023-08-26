@@ -74,9 +74,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/hbkysf27/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hbkysf27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hbkysf27&theme=dracula)](https://github.com/hbkysf27/github-readme-activity-graph)
+
+[![Yusuf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hbkysf27&theme=react-dark)](https://github.com/hbkysf27/github-readme-activity-graph)
 
 <br/>
 <br/>
