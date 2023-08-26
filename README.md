@@ -10,7 +10,7 @@
 
  👋 Hi, **I’m @hbkysf27**
 
- 🌱 I’m currently learning Bsc Hons in Software Engineering **
+ 🌱 I’m Graduated Bsc Hons in Software Engineering **
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
