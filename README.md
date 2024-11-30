@@ -22,7 +22,7 @@
  <h2/>
   
 
- 👨‍💻 All of my projects are available at **[My Portfolio](https://yusufsalih.pages.dev/)**
+ 👨‍💻 All of my projects are available at **[My Portfolio](https://www.yusufsalh.com/)**
 
  📫 How to reach me **Yusufsalih4@gmail.com** <a href="mailto:Yusufsalih4@gmail.com">
 <img src="https://img.shields.io/badge/-Yusufsalih4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Yusufsalih4@gmail.com" />
