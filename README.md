@@ -87,7 +87,6 @@
 <a href = "https://www.linkedin.com/in/yusuf-salih-874328167/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yusuf_hbk"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/hbkysf/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCXD3ZBHpfZ9zDFJIvu9a8Rg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
