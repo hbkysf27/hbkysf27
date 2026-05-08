@@ -7,8 +7,14 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 </h1>
 
 <h3 align="center">
-Software Engineer | MSc AI & Robotics | Cloud • DevOps • Machine Learning
+Software Engineer · MSc AI & Robotics · Cloud · DevOps · Machine Learning
 </h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yusuf-salih-874328167/">
+    <img src="https://img.shields.io/badge/Open%20to%20Graduate%20Roles%20in%20the%20UK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
 Building scalable systems, deploying AI solutions, and delivering production-ready applications 🚀
@@ -20,22 +26,26 @@ Building scalable systems, deploying AI solutions, and delivering production-rea
 
 ## 🚀 About Me
 
-- 👨‍💻 Software Engineer with experience in **production-grade systems and scalable applications**
-- 🎓 MSc in **Artificial Intelligence & Robotics**
-- ☁️ Strong focus on **AWS & Azure cloud ecosystems**
-- ⚙️ Experience in **DevOps, CI/CD pipelines, Docker & Kubernetes**
-- 🤖 Passionate about **Applied Machine Learning & real-world deployment**
-- 📱 Built **mobile and web applications with React Native and modern stacks**
+- 👨‍💻 Software Engineer with commercial experience in **production-grade systems** (Virtusa)
+- 🎓 **MSc Artificial Intelligence & Robotics** – University of Aberdeen *(2024–2025)*
+- 🤖 Applied ML work spanning **deep learning, NLP, computer vision, and robot programming**
+- ☁️ Strong background in **AWS & Azure cloud ecosystems**
+- ⚙️ Hands-on with **DevOps, CI/CD pipelines, Docker & Kubernetes**
+- 📱 Building **mobile and web applications** with React Native and full-stack stacks
+- 🇬🇧 **Actively seeking Graduate Software / AI / ML Engineer roles in the UK**
 
 ---
 
 ## 🧠 Core Expertise
 
-✔️ Full-Stack Development (.NET, React, APIs)  
+✔️ Full-Stack Development (.NET, React, Node.js, REST APIs)  
+✔️ Machine Learning & Deep Learning (PyTorch, scikit-learn, SageMaker)  
+✔️ Natural Language Processing & Text Mining  
+✔️ Computer Vision & Activity Classification  
+✔️ Robot Programming & Gesture-Based Control  
 ✔️ Cloud Architecture (AWS, Azure, scalable systems)  
 ✔️ DevOps & Automation (Docker, Kubernetes, CI/CD)  
-✔️ Machine Learning Deployment (SageMaker, REST APIs)  
-✔️ Database Design (SQL Server, MongoDB)
+✔️ Database Design (SQL Server, MongoDB, Firebase)
 
 ---
 
@@ -44,13 +54,13 @@ Building scalable systems, deploying AI solutions, and delivering production-rea
 ### 💻 Languages
 `C#` `Python` `JavaScript` `TypeScript` `SQL` `Java`
 
-### ⚙️ Frameworks
-`.NET` `React` `React Native` `Node.js`
+### ⚙️ Frameworks & Libraries
+`.NET` `React` `React Native (Expo)` `Node.js` `PyTorch` `scikit-learn`
 
 ### ☁️ Cloud & DevOps
 `AWS (SageMaker, S3, Cognito, Amplify)`  
 `Azure (AKS, ACR, DevOps)`  
-`Docker` `Kubernetes` `CI/CD Pipelines`
+`Docker` `Kubernetes` `CI/CD Pipelines` `Cypress (E2E Testing)`
 
 ### 🗄️ Databases
 `SQL Server` `MySQL` `MongoDB` `Firebase`
@@ -71,8 +81,8 @@ Building scalable systems, deploying AI solutions, and delivering production-rea
 
 <img src="https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Applied-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </p>
 
@@ -143,7 +153,7 @@ Cloud-native microservices architecture on Azure.
 
 <td width="50%" align="center">
 
-### 📱 Service Marketplace Platform
+### 📱 SnapWerks – On-Demand Service Marketplace
 
 <a href="https://www.yusufsalh.com/service-platform">
 <img src="https://img.shields.io/badge/🔍%20View%20Case%20Study-Mobile%20App-green?style=for-the-badge"/>
@@ -153,40 +163,41 @@ Cloud-native microservices architecture on Azure.
 Fragmented access to local on-demand services.
 
 **Solution:**  
-Mobile-first service marketplace platform.
+Mobile-first service marketplace connecting customers with local professionals.
 
 **Key Work:**
-- React Native mobile application
+- React Native (Expo Router) mobile application
 - Location-based matching system
-- Backend API integration
-- Scalable marketplace design
+- Cypress end-to-end testing suite
+- Backend API integration & scalable marketplace design
 
 **Impact:**
-- Real-world gig economy concept
-- End-to-end mobile system design
+- Real-world gig economy product
+- Full E2E test coverage for service professional workflows
 
 </td>
 
 <td width="50%" align="center">
 
-### 🤖 AI & Data Science Projects (MSc)
+### 🤖 AI, NLP & Robotics Research (MSc)
 
 <a href="https://www.yusufsalh.com/ai-projects">
 <img src="https://img.shields.io/badge/🔍%20View%20Case%20Study-AI%20Research-orange?style=for-the-badge"/>
 </a>
 
 **Focus:**
-Applied Machine Learning & Research
+Applied ML, NLP, Computer Vision & Robotics
 
 **Key Work:**
-- Classification & regression models
-- Feature engineering pipelines
-- Model evaluation (F1, accuracy, confusion matrices)
-- Experimental AI workflows
+- Activity classification on MSCOCO images (deep learning)
+- NLP analysis of the Spoken BNC2014 corpus (text mining)
+- Decision Trees, Naïve Bayes & Neural Networks for robot task learning
+- Gesture-based control for collaborative robots (MSc project)
+- Multi-agent Q-learning system design
 
 **Impact:**
-- Strong foundation in applied AI systems
-- Research-driven ML development
+- Research-level AI work with real-world robotics applications
+- Strong foundation across ML, NLP, and autonomous systems
 
 </td>
 
@@ -197,23 +208,23 @@ Applied Machine Learning & Research
 
 ---
 
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbkysf27&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkysf27&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbkysf27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkysf27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hbkysf27&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
 ---
 
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hbkysf27&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hbkysf27&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
