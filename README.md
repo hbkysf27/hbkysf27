@@ -197,13 +197,17 @@ Applied Machine Learning & Research
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hbkysf27&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkysf27&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbkysf27&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkysf27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 ---
 
 ## 📈 Activity Graph
