@@ -151,31 +151,7 @@ Cloud-native microservices architecture on Azure.
 
 <tr>
 
-<td width="50%" align="center">
 
-### 📱 SnapWerks – On-Demand Service Marketplace
-
-<a href="https://www.yusufsalh.com/service-platform">
-<img src="https://img.shields.io/badge/🔍%20View%20Case%20Study-Mobile%20App-green?style=for-the-badge"/>
-</a>
-
-**Problem:**  
-Fragmented access to local on-demand services.
-
-**Solution:**  
-Mobile-first service marketplace connecting customers with local professionals.
-
-**Key Work:**
-- React Native (Expo Router) mobile application
-- Location-based matching system
-- Cypress end-to-end testing suite
-- Backend API integration & scalable marketplace design
-
-**Impact:**
-- Real-world gig economy product
-- Full E2E test coverage for service professional workflows
-
-</td>
 
 <td width="50%" align="center">
 
@@ -210,10 +186,10 @@ Applied ML, NLP, Computer Vision & Robotics
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbkysf27&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbkysf27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hbkysf27&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
